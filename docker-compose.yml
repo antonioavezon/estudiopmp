@@ -1,0 +1,68 @@
+services:
+  db:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: pmp_user
+      POSTGRES_PASSWORD: pmp_password
+      POSTGRES_DB: pmp_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+    networks:
+      - pmp-network
+
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - pmp-network
+
+  backend:
+    build: 
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql://pmp_user:pmp_password@db:5432/pmp_db
+      RABBITMQ_URL: amqp://guest:guest@rabbitmq:5672/
+    depends_on:
+      - db
+      - rabbitmq
+    networks:
+      - pmp-network
+
+  analytics:
+    build: 
+      context: ./analytics
+      dockerfile: Dockerfile
+    environment:
+      DATABASE_URL: postgresql://pmp_user:pmp_password@db:5432/pmp_db
+      RABBITMQ_URL: amqp://guest:guest@rabbitmq:5672/
+    depends_on:
+      - db
+      - rabbitmq
+    networks:
+      - pmp-network
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"  # <--- CAMBIO IMPORTANTE: 3000 a 3000 (no a 80)
+    depends_on:
+      - backend
+    networks:
+      - pmp-network
+
+volumes:
+  postgres_data:
+
+networks:
+  pmp-network:
+    driver: bridge

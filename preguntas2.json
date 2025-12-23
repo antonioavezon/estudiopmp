@@ -1,0 +1,242 @@
+[
+  {
+    "content": "Te encuentras en el proceso de dirigir y gestionar el trabajo del proyecto y tu patrocinador reemplaza de forma inesperada a un recurso clave por una persona recién contratada, sin consultarte. Esto te toma totalmente por sorpresa. ¿Qué deberías hacer como director del proyecto?",
+    "options": {
+      "A": "Detener todo el trabajo del proyecto y organizar una reunión con el patrocinador para entender por qué se hizo el cambio sin tu consentimiento.",
+      "B": "Comenzar de inmediato la capacitación de la nueva persona y ponerla en el puesto de trabajo lo antes posible.",
+      "C": "Revisar el plan de gestión de los recursos para identificar el siguiente curso de acción.",
+      "D": "Realizar un análisis para identificar los riesgos que este cambio no solicitado puede generar sobre el alcance, el cronograma y el presupuesto."
+    },
+    "correct_option": "D",
+    "explanation": "El cambio de un recurso clave sin previo análisis puede afectar alcance, plazo y costo. Antes de reaccionar operativamente, el director de proyecto debe evaluar formalmente el impacto como riesgo y definir acciones de respuesta; detener el trabajo o capacitar de inmediato sin este análisis es precipitado, y solo revisar el plan de recursos no aborda el impacto real sobre el desempeño.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "«Desarrollar el acta de constitución del proyecto» es el proceso que genera un documento que autoriza formalmente el proyecto y otorga al director del proyecto la autoridad para asignar recursos organizacionales a las actividades. ¿Cuál de las siguientes es una salida de este proceso?",
+    "options": {
+      "A": "Registro de supuestos.",
+      "B": "Plan de gestión de beneficios.",
+      "C": "Caso de negocio.",
+      "D": "Acuerdos."
+    },
+    "correct_option": "A",
+    "explanation": "En PMBOK, el registro de supuestos se crea y actualiza desde la iniciación, y una de sus primeras apariciones formales es como salida de desarrollar el acta de constitución. El caso de negocio, los acuerdos y el plan de beneficios son típicamente documentos previos o externos que sirven de insumo para autorizar el proyecto, no salidas del proceso.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "La existencia de un riesgo emergente se está volviendo cada vez más clara, con una mayor conciencia de las variables desconocidas-desconocidas. Estos son riesgos que solo pueden ser reconocidos después de que hayan ocurrido. ¿Cuál es la manera más adecuada de afrontar los riesgos emergentes en un proyecto?",
+    "options": {
+      "A": "Desarrollar el plan para la dirección del proyecto.",
+      "B": "Desarrollar el plan de gestión de los riesgos.",
+      "C": "Desarrollar la capacidad de recuperación (resiliencia) del proyecto.",
+      "D": "Desarrollar estimaciones de costos más altas para cubrir posibles impactos."
+    },
+    "correct_option": "C",
+    "explanation": "Los riesgos emergentes y desconocidos-desconocidos no pueden identificarse ni modelarse de forma detallada. La respuesta adecuada es fortalecer la resiliencia del proyecto: márgenes de maniobra, buffers, flexibilidad de procesos y capacidad de adaptación rápida. Ajustar sólo el plan o inflar costos no aborda estructuralmente este tipo de riesgo.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En medio de un proyecto de construcción civil, el cliente solicita un cambio en el diseño de una escalera. Como director del proyecto, ¿cómo deberías abordar este requerimiento?",
+    "options": {
+      "A": "Actualizar el registro de riesgos.",
+      "B": "Crear una solicitud de cambio.",
+      "C": "Actualizar el registro de incidentes.",
+      "D": "Informar al patrocinador sobre el impacto estimado en costo, cronograma y alcance sin más trámites."
+    },
+    "correct_option": "B",
+    "explanation": "Todo cambio al alcance o al diseño aprobado debe pasar por el sistema formal de control de cambios. El primer paso es registrar una solicitud de cambio para que sea analizada, evaluada y aprobada o rechazada. Actualizar riesgos o comunicar informalmente al patrocinador sin seguir el proceso de cambio deja al proyecto fuera de gobierno.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "¿Qué porcentaje aproximado de una población cae dentro de un intervalo de confianza de 2 sigma (dos desviaciones estándar) en una distribución normal?",
+    "options": {
+      "A": "0,98.",
+      "B": "0,97.",
+      "C": "0,95.",
+      "D": "0,68."
+    },
+    "correct_option": "C",
+    "explanation": "Bajo la regla empírica 68–95–99,7 para una distribución normal, alrededor del 68 % de los valores cae dentro de ±1 sigma, aproximadamente el 95 % dentro de ±2 sigma y el 99,7 % dentro de ±3 sigma. Por ello, 2 sigma corresponde aproximadamente al 95 % de la población.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En el proceso «planificar la gestión de los recursos» se necesita un artefacto que muestre qué recursos específicos están asignados a cada paquete de trabajo definido en la EDT/WBS. ¿Qué herramienta se utiliza para esto?",
+    "options": {
+      "A": "Estructura de desglose de la organización (OBS).",
+      "B": "Estructura de desglose de los recursos (RBS).",
+      "C": "Archivo de recursos.",
+      "D": "Matriz de asignación de responsabilidades (RAM)."
+    },
+    "correct_option": "D",
+    "explanation": "La matriz de asignación de responsabilidades (RAM), que incluye formatos como RACI, cruza paquetes de trabajo con personas o roles y deja claro quién hace qué. La OBS muestra estructura organizacional, la RBS clasifica tipos de recursos y el archivo de recursos es un repositorio, pero ninguno vincula de forma directa paquetes de trabajo con responsables como lo hace la RAM.",
+    "domain": "Personas"
+  },
+  {
+    "content": "Un proyecto ha sido cerrado. El CPI es 1,2 y el SPI es 0,85. ¿Qué interpretación describe mejor esta situación?",
+    "options": {
+      "A": "El proyecto se completó dentro del presupuesto y adelantado en el cronograma.",
+      "B": "El proyecto fue cerrado de forma prematura; al momento del cierre, el costo estaba dentro del presupuesto.",
+      "C": "El proyecto excedió el presupuesto y el plan de trabajo se retrasó.",
+      "D": "El proyecto estuvo dentro del presupuesto y del cronograma según la línea base."
+    },
+    "correct_option": "B",
+    "explanation": "Un CPI de 1,2 indica que por cada unidad monetaria gastada se obtuvo más valor del plan (buen desempeño de costos). Un SPI de 0,85 indica que, respecto al plan, se avanzó menos trabajo del previsto. Si el proyecto está cerrado, esa combinación sugiere un cierre anticipado o reducción de alcance, no un cumplimiento pleno de cronograma.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "¿Cuál es el rango típico de precisión para una estimación aproximada del orden de magnitud (ROM) realizada durante la fase de iniciación de un proyecto?",
+    "options": {
+      "A": "−50 % a +50 %. ",
+      "B": "−25 % a +75 %. ",
+      "C": "−35 % a +45 %. ",
+      "D": "−20 % a +20 %."
+    },
+    "correct_option": "B",
+    "explanation": "La estimación ROM se utiliza en etapas muy tempranas, con alta incertidumbre. PMBOK indica rangos amplios, típicamente entre −25 % y +75 %. Los demás rangos corresponden a estimaciones más detalladas (por ejemplo, definitivas) o no reflejan adecuadamente el nivel de incertidumbre en iniciación.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "¿Qué tipo de contrato reembolsa al vendedor todos los costos autorizados para ejecutar el trabajo y, además, le otorga honorarios con incentivos predeterminados en función del cumplimiento de objetivos específicos de desempeño?",
+    "options": {
+      "A": "CPFF (costo más honorario fijo).",
+      "B": "CPIF (costo más honorario de incentivo).",
+      "C": "CPAF (costo más honorario otorgado).",
+      "D": "CPPC (costo más porcentaje del costo)."
+    },
+    "correct_option": "B",
+    "explanation": "En un contrato CPIF el comprador reembolsa los costos autorizados y paga un honorario de incentivo atado al logro de metas de desempeño. CPFF solo agrega una cuota fija, CPAF incluye un honorario discrecional y CPPC genera un porcentaje sobre el costo, sin estructura formal de incentivos basada en objetivos.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "¿Qué tipo de contrato de precio fijo otorga cierta flexibilidad al comprador y al vendedor, permitiendo desviaciones en el desempeño, y contempla incentivos financieros ligados al cumplimiento de métricas acordadas, normalmente con un precio tope (ceiling price)?",
+    "options": {
+      "A": "FPEPA (precio fijo con ajuste por inflación).",
+      "B": "FPIF (precio fijo con honorario de incentivo).",
+      "C": "CPPC (costo más porcentaje del costo).",
+      "D": "CPFF (costo más honorario fijo)."
+    },
+    "correct_option": "B",
+    "explanation": "El contrato FPIF define un precio objetivo, un precio tope y una fórmula de reparto de ahorros o sobrecostos, ligando ganancias del vendedor a su desempeño. FPEPA se ajusta por índices económicos, mientras que CPPC y CPFF son de tipo costos reembolsables, no precio fijo con incentivos.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En gestión de la calidad, ¿por qué se utiliza el muestreo en las inspecciones en lugar de inspeccionar el 100 % de los productos o entregables?",
+    "options": {
+      "A": "Para identificar las características críticas de calidad (CTQ).",
+      "B": "Para obtener una muestra representativa de la población cuando no es viable revisar el total.",
+      "C": "Porque el PMBOK exige que todas las inspecciones sean por muestreo.",
+      "D": "Para identificar brechas de calidad imposibles de ver con inspecciones completas."
+    },
+    "correct_option": "B",
+    "explanation": "En la práctica, inspeccionar el 100 % de la producción suele ser caro, lento o incluso destructivo. El muestreo estadístico permite inferir la calidad total a partir de una muestra representativa. Ni el PMBOK obliga exclusivamente al muestreo, ni este se utiliza solo para CTQ o brechas específicas.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Durante la gestión de las adquisiciones, cualquier violación de un contrato, ya sea por parte del comprador o del vendedor, introduce principalmente un riesgo de qué tipo?",
+    "options": {
+      "A": "Riesgo de cronograma.",
+      "B": "Riesgo de costo.",
+      "C": "Riesgo jurídico.",
+      "D": "Riesgo de escalamiento."
+    },
+    "correct_option": "C",
+    "explanation": "Un incumplimiento contractual expone al proyecto y a la organización a consecuencias legales: litigios, arbitrajes, sanciones o daños reputacionales. Por supuesto, puede haber impacto en costo y plazo, pero la naturaleza central del riesgo es jurídica porque deriva de la violación de obligaciones legales.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "Luis, director de un proyecto de construcción, está documentando las lecciones aprendidas durante la fase de planificación para incorporarlas como activos de procesos organizacionales (OPA) que sirvan en proyectos futuros. ¿De qué proceso es salida el registro de lecciones aprendidas?",
+    "options": {
+      "A": "Dirigir y gestionar el trabajo del proyecto.",
+      "B": "Realizar el control integrado de cambios.",
+      "C": "Gestionar el conocimiento del proyecto.",
+      "D": "Cerrar el proyecto o fase."
+    },
+    "correct_option": "C",
+    "explanation": "El proceso «gestionar el conocimiento del proyecto» tiene como objetivo capturar y compartir conocimiento explícito y tácito, incluyendo lecciones aprendidas. El registro de lecciones aprendidas es una salida clave de este proceso y se actualiza a lo largo del ciclo de vida, no solo al cierre.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Estás en el dominio de gestión de riesgos de tu proyecto y tu equipo acaba de completar el análisis cualitativo y cuantitativo de los riesgos. ¿Cuál debería ser el siguiente paso como director del proyecto?",
+    "options": {
+      "A": "Planificar las respuestas a los riesgos.",
+      "B": "Planificar la gestión de los riesgos.",
+      "C": "Implementar las respuestas a los riesgos.",
+      "D": "Monitorear los riesgos."
+    },
+    "correct_option": "A",
+    "explanation": "La secuencia estándar de gestión de riesgos es: planificar la gestión, identificar, análisis cualitativo, análisis cuantitativo (si aplica), planificar respuestas, implementar respuestas y monitorear. Una vez que se han priorizado y cuantificado los riesgos, el siguiente proceso es diseñar respuestas específicas, no volver a planificar ni pasar directamente a la implementación.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En proyectos con ciclos de vida adaptativos o iterativos, varios procesos se repiten en cada iteración. ¿Cuál de los siguientes procesos normalmente NO se repite en cada iteración, sino que suele realizarse una sola vez a nivel de proyecto?",
+    "options": {
+      "A": "Estimaciones de costos.",
+      "B": "Desarrollar el acta de constitución del proyecto.",
+      "C": "Definir el alcance.",
+      "D": "Desarrollar el diccionario de la EDT/WBS."
+    },
+    "correct_option": "B",
+    "explanation": "El acta de constitución del proyecto formaliza la existencia del proyecto completo y la autoridad del director, por lo que se emite una sola vez. En enfoques adaptativos, la definición detallada del alcance, la estimación de costos y la elaboración del diccionario de la EDT pueden refinarse iterativamente en cada ciclo.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En un proyecto se aprobó una reserva para contingencias considerando riesgos de alto impacto y alta probabilidad. Durante la ejecución se materializa uno de esos riesgos y el director del proyecto necesita fondos adicionales de la reserva de gestión para implementar el plan de mitigación. ¿Cuál es el siguiente paso que debe dar?",
+    "options": {
+      "A": "Presentar una solicitud de cambio para movilizar la reserva de gestión.",
+      "B": "Convocar una reunión con el patrocinador para comentar la situación, sin más acciones.",
+      "C": "Ajustar la reserva para contingencias sin pasar por control de cambios.",
+      "D": "Reducir el alcance para evitar usar la reserva de gestión."
+    },
+    "correct_option": "A",
+    "explanation": "La reserva de gestión está fuera de la línea base de desempeño y solo puede utilizarse mediante el proceso formal de control de cambios. El director debe emitir una solicitud de cambio para autorizar su uso. Ajustar reservas sin aprobación o modificar alcance unilateralmente rompe la gobernanza del proyecto.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Como parte del programa de gestión de la calidad, necesitas determinar si existe relación entre el nivel de defectos medido en ppm (partes por millón) y el punto de ajuste de una variable del proceso. Te interesa visualizar la correlación entre ambas variables. ¿Qué herramienta deberías utilizar?",
+    "options": {
+      "A": "Diagrama de dispersión.",
+      "B": "Gráfica de control.",
+      "C": "Diagrama de Pareto.",
+      "D": "Prueba de hipótesis."
+    },
+    "correct_option": "A",
+    "explanation": "El diagrama de dispersión muestra pares de datos (X,Y) y permite observar visualmente si existe correlación positiva, negativa o nula entre dos variables. Las gráficas de control monitorizan estabilidad en el tiempo, los diagramas de Pareto priorizan causas y las pruebas de hipótesis son técnicas estadísticas más formales.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Beatriz está preparando un informe de costos para el cliente y necesita calcular el EAC (estimación a la conclusión). El BAC es $22.000, el EV es $13.000, el PV es $14.000 y el AC es $15.000. Si se espera completar el resto del trabajo con el rendimiento presupuestado original, ¿cuál debería ser el EAC?",
+    "options": {
+      "A": "$34.000.",
+      "B": "$24.000.",
+      "C": "$45.000.",
+      "D": "$21.000."
+    },
+    "correct_option": "B",
+    "explanation": "Cuando se asume que el desempeño futuro seguirá el plan original, la fórmula es EAC = AC + (BAC − EV). Sustituyendo: EAC = 15.000 + (22.000 − 13.000) = 15.000 + 9.000 = 24.000. Las otras cifras no corresponden a fórmulas estándar coherentes con esta premisa.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Los interesados deben participar tempranamente en la planificación y aportar información sobre los requisitos de calidad de los productos para que el control de calidad pueda evaluar el desempeño y recomendar ajustes. En este contexto, ¿cuál es la salida del proceso «controlar la calidad» relacionada con esos resultados?",
+    "options": {
+      "A": "Entregables verificados.",
+      "B": "Entregables aceptados.",
+      "C": "Línea base del alcance.",
+      "D": "Diagramas de control de calidad."
+    },
+    "correct_option": "A",
+    "explanation": "El proceso «controlar la calidad» verifica que los entregables cumplen las especificaciones internas y criterios de calidad. Su salida clave son los entregables verificados. La aceptación formal por parte del cliente se produce en «validar el alcance», donde se generan los entregables aceptados.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "El proceso «planificar la gestión de los recursos» define cómo estimar, adquirir, gestionar y utilizar los recursos físicos y humanos. Una vez completados «planificar la gestión de los recursos» y «estimar los recursos de las actividades» para un proyecto, ¿cuál es el siguiente proceso que debería iniciarse dentro de este dominio?",
+    "options": {
+      "A": "Adquirir recursos.",
+      "B": "Desarrollar el equipo.",
+      "C": "Dirigir al equipo.",
+      "D": "Gestionar el conocimiento del producto."
+    },
+    "correct_option": "A",
+    "explanation": "Tras definir la estrategia de recursos y estimar qué y cuánto se requiere por actividad, el siguiente paso lógico es adquirir esos recursos. El desarrollo y la dirección del equipo se llevan a cabo una vez que las personas han sido incorporadas, no antes.",
+    "domain": "Personas"
+  }
+]

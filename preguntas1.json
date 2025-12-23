@@ -1,0 +1,269 @@
+[
+  {
+    "content": "Diriges un proyecto para desarrollar una aplicación que mejore el flujo de pacientes en un hospital. El objetivo (mejorar el flujo) está claro, pero la gerencia aún no sabe cómo debe funcionar la solución. No hay presión por cerrar pronto; se prioriza aprendizaje, valor para el cliente y aceptación del usuario. ¿Qué enfoque de dirección de proyectos es más adecuado?",
+    "options": {
+      "A": "Ágil",
+      "B": "Cascada (predictivo)",
+      "C": "Incremental",
+      "D": "Iterativo"
+    },
+    "correct_option": "A",
+    "explanation": "Cuando el resultado esperado es claro, pero la solución y los requisitos detallados son inciertos, conviene un enfoque ágil: entregas cortas, validación frecuente, realimentación continua de usuarios y adaptación del producto a medida que se aprende.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Lideras un proyecto para instalar una nueva línea de envasado de champú. En el diseño asumes que alrededor de un 2 % del producto final se perderá por derrames o deterioro. ¿En qué documento se debe registrar este supuesto relacionado con la calidad del producto?",
+    "options": {
+      "A": "Transferencia de calidad",
+      "B": "Diagramas de control de calidad",
+      "C": "Plan de gestión de la calidad",
+      "D": "Auditoría de calidad"
+    },
+    "correct_option": "C",
+    "explanation": "Se trata de un supuesto que afecta directamente los criterios de aceptación del producto y el nivel de desperdicio permitido. Por tanto, debe documentarse dentro del plan de gestión de la calidad, donde se definen estándares, métricas y umbrales de aceptación.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Sabes que medir consume esfuerzo, por lo que el equipo solo debe definir métricas realmente útiles. Para ello se emplea el acrónimo SMART al diseñar indicadores de proyecto. ¿Cuál combinación describe mejor una métrica SMART en este contexto?",
+    "options": {
+      "A": "Sensible, medible, alineada, basada en respeto, oportuna",
+      "B": "Específica, significativa, alcanzable, relevante, oportuna",
+      "C": "Significativa, significativa de nuevo, acordada, robusta, con límite de tiempo",
+      "D": "Única, matricial, alcanzable, redonda, con límite de tiempo"
+    },
+    "correct_option": "B",
+    "explanation": "SMART orienta a que cada indicador sea específico, tenga un significado claro para la gestión, sea alcanzable con los recursos disponibles, relevante para los objetivos del proyecto y esté acotado en el tiempo para poder medir avances y beneficios.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "Gestionas un proyecto de automatización industrial de alto valor. Mientras preparas el acta de constitución, un interesado te pide el documento que demuestra la viabilidad económica y los beneficios esperados, usado como base para autorizar la inversión. ¿Qué documento es?",
+    "options": {
+      "A": "Acta de constitución del proyecto",
+      "B": "Caso de negocio del proyecto",
+      "C": "Plan de gestión de los requisitos",
+      "D": "Plan de gestión de beneficios"
+    },
+    "correct_option": "B",
+    "explanation": "El caso de negocio justifica el proyecto desde el punto de vista económico: analiza costos, beneficios esperados y alternativas. Es la referencia para validar que la iniciativa tiene sentido financiero, mientras que el acta de constitución formaliza la autorización del proyecto.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "Miguel planifica abrir su pastelería y quiere inaugurar en una fecha específica. Pregunta a su compañero de equipo en qué documento definieron los criterios y actividades para desarrollar, monitorear y controlar el cronograma del proyecto. ¿A qué documento se refiere?",
+    "options": {
+      "A": "Plan de gestión del cronograma",
+      "B": "Plan de progreso del cronograma",
+      "C": "Plan de revisión del cronograma",
+      "D": "Plan del cronograma"
+    },
+    "correct_option": "A",
+    "explanation": "El plan de gestión del cronograma, como componente del plan para la dirección del proyecto, define cómo se elabora el cronograma, cómo se hace seguimiento y cómo se controlan las desviaciones. Los otros nombres no corresponden a artefactos estándar.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En un ciclo de vida iterativo se generan prototipos sucesivos. El equipo ejecuta una actividad por algunas semanas, recoge retroalimentación de los interesados y después retrabaja el producto dentro de un periodo acotado. ¿Qué práctica describe mejor este enfoque?",
+    "options": {
+      "A": "Uso de prototipos sin límite de tiempo",
+      "B": "Timeboxing (períodos de tiempo preestablecidos)",
+      "C": "Incubación indefinida del trabajo",
+      "D": "Pruebas de funcionamiento aisladas"
+    },
+    "correct_option": "B",
+    "explanation": "El timeboxing fija una duración máxima para una iteración o conjunto de actividades. Dentro de ese bloque de tiempo el equipo explora, construye y obtiene feedback, y al finalizar evalúa si amplía, repite o cambia el trabajo según lo aprendido.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Diriges un proyecto híbrido en el que la fase ágil requiere un Scrum Master. El único Scrum Master de la organización está asignado a otros proyectos y la dirección no puede liberarlo en los próximos tres meses. Debes ordenar las siguientes opciones de la más a la menos preferida: A) Revisar de nuevo el calendario de recursos y proponer alternativas viables. B) Comenzar a formar a un miembro del equipo para que se certifique como Scrum Master, aunque retrase el inicio. C) Escalar al patrocinador para intentar conseguir un Scrum Master remoto. D) Concluir que el proyecto no puede ejecutarse y archivarlo. ¿Qué secuencia refleja el mejor orden de priorización?",
+    "options": {
+      "A": "C, B, A, D",
+      "B": "A, C, B, D",
+      "C": "B, C, D, A",
+      "D": "C, A, B, D"
+    },
+    "correct_option": "B",
+    "explanation": "Primero se debe buscar una solución dentro de las restricciones actuales (revisar disponibilidad y alternativas). Si no funciona, escalar al patrocinador para apoyo. Después se evalúa formar a alguien interno, asumiendo impacto en plazos. Archivar el proyecto es el último recurso.",
+    "domain": "Personas"
+  },
+  {
+    "content": "Roberto lidera un proyecto para un portal de reclutamiento. Durante la recopilación de requisitos quiere representar visualmente el alcance del producto mostrando el sistema y cómo interactúan con él usuarios y otros sistemas, reflejando entradas y salidas. ¿Qué tipo de modelo debería utilizar?",
+    "options": {
+      "A": "Diagrama de afinidad",
+      "B": "Mapa mental",
+      "C": "Diagrama de contexto",
+      "D": "Diagrama interno-externo de usuario"
+    },
+    "correct_option": "C",
+    "explanation": "El diagrama de contexto modela el sistema como una caja negra y muestra actores externos, flujos de entrada y salida y límites del sistema, lo que ayuda a aclarar el alcance del producto y sus interfaces con otros sistemas.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Laura dirige un proyecto de servicios financieros que abarca varios países. En la planificación del cronograma necesita dividir el alcance y los entregables en partes más pequeñas y manejables para poder secuenciar y estimar actividades. ¿Qué técnica debe utilizar?",
+    "options": {
+      "A": "Creación de paquetes de trabajo sin estructura",
+      "B": "Descomposición",
+      "C": "Planificación gradual ad-hoc",
+      "D": "Planificación L1-L2-L3 del cronograma sin desglose formal"
+    },
+    "correct_option": "B",
+    "explanation": "La descomposición es la técnica estándar para dividir el trabajo del proyecto en componentes progresivamente más detallados hasta llegar a paquetes de trabajo y actividades que puedan estimarse, asignarse y controlarse.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Estás revisando el método Kanban como enfoque para mejorar un proceso de trabajo. ¿Cuáles son TRES principios característicos del método Kanban?",
+    "options": {
+      "A": "Comenzar con el estado actual",
+      "B": "Fomentar liderazgo en todos los niveles",
+      "C": "Acordar el cambio incremental y evolutivo",
+      "D": "Basarse en soluciones únicas de código",
+      "E": "Usar siempre iteraciones de duración fija"
+    },
+    "correct_option": "A,B,C",
+    "explanation": "Kanban parte de cómo se trabaja hoy, promueve la mejora continua mediante cambios pequeños y evolutivos y anima a que el liderazgo emerja en todos los niveles del sistema. No impone soluciones técnicas concretas ni exige iteraciones de duración fija.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Una organización quiere adoptar enfoques ágiles con entregas tempranas de valor. Sin embargo, la estructura y cultura actuales son reacias a liberar resultados de manera temprana. Si mantiene esta resistencia, ¿cuál es el riesgo más probable?",
+    "options": {
+      "A": "Los puntos de historia crecen sin control en el backlog",
+      "B": "Los costos del proyecto se disparan automáticamente",
+      "C": "Las ampliaciones de alcance hacen imposible gestionar la línea base",
+      "D": "Se retrasa el retorno de la inversión previsto (ROI)"
+    },
+    "correct_option": "D",
+    "explanation": "Si la organización no permite entregar valor temprano, los beneficios económicos se materializan más tarde de lo planificado. Esto afecta directamente al ROI, aunque el presupuesto total pueda mantenerse. Otros efectos pueden darse, pero el más probable es el retraso del retorno.",
+    "domain": "Personas"
+  },
+  {
+    "content": "Diriges un proyecto ágil basado en flujo para desarrollar una app de pedidos de medicamentos a domicilio. El equipo extrae trabajo del backlog según su capacidad, sin iteraciones fijas. ¿Qué enunciado describe mejor este tipo de enfoque?",
+    "options": {
+      "A": "Cada bloque de tiempo tiene la misma duración y siempre produce funcionalidades probadas",
+      "B": "La duración de cada tramo varía y el flujo depende del límite de trabajo en curso (WIP)",
+      "C": "La duración la fija libremente el Scrum Master en cada ciclo",
+      "D": "La duración la determina el resultado del sprint anterior"
+    },
+    "correct_option": "B",
+    "explanation": "En los sistemas de flujo continuo, el trabajo se gestiona mediante límites de WIP; los elementos fluyen a través del sistema sin iteraciones prefijadas y la capacidad disponible determina cuándo se inicia cada nuevo ítem.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Buscas la teoría motivacional que plantea dos estilos de gestión: uno que empodera y habilita a las personas y otro que las supervisa estrechamente con un enfoque de control desde arriba. ¿A qué teoría corresponde este modelo de dos enfoques?",
+    "options": {
+      "A": "Teoría de McGregor (X e Y)",
+      "B": "Teoría de McClelland",
+      "C": "Jerarquía de Maslow",
+      "D": "Teoría de la expectativa de Vroom"
+    },
+    "correct_option": "A",
+    "explanation": "McGregor plantea la Teoría X (personas poco motivadas, requieren control y supervisión) y la Teoría Y (personas intrínsecamente motivadas, buscan responsabilidad). Describe dos estilos radicalmente distintos de dirigir y de involucrar a los empleados.",
+    "domain": "Personas"
+  },
+  {
+    "content": "Debes relacionar varios enfoques ágiles con su descripción. Por ejemplo: Scrum se centra en un desarrollo iterativo-incremental con equipo que actúa como unidad; XP promueve liberaciones frecuentes y programación en parejas; DSDM fija tiempo, costo y calidad y prioriza alcance con MoSCoW; Kanban se basa en flujo continuo inspirado en Lean; Disciplined Agile integra buenas prácticas en un marco de decisiones. ¿Cuál asociación es correcta?",
+    "options": {
+      "A": "1-D, 2-C, 3-B, 4-E, 5-A",
+      "B": "1-A, 2-B, 3-C, 4-E, 5-D",
+      "C": "1-C, 2-D, 3-A, 4-E, 5-B",
+      "D": "1-D, 2-C, 3-A, 4-E, 5-B"
+    },
+    "correct_option": "C",
+    "explanation": "Scrum se asocia con desarrollo iterativo-incremental de producto (C), XP con ciclos cortos y programación en parejas (D), DSDM con enfoque guiado por restricciones y MoSCoW (A), Kanban con flujo continuo (E) y Disciplined Agile con marco de decisiones que integra prácticas ágiles (B).",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Identificas atributos de un equipo ágil de alto desempeño. Entre las opciones aparecen: equipo mixto de generalistas y especialistas, entorno de trabajo estable, co-ubicación o buena gestión del trabajo distribuido y capacidad de cuestionar cada solicitud de cambio de alcance. ¿Cuál de estos NO es un atributo clave de un equipo ágil exitoso?",
+    "options": {
+      "A": "Equipo variado de generalistas y especialistas",
+      "B": "Entorno laboral estable",
+      "C": "Coubicación o buena gestión de ubicación distribuida",
+      "D": "Cuestionar sistemáticamente cada solicitud de cambio de alcance"
+    },
+    "correct_option": "D",
+    "explanation": "En enfoques ágiles se espera apertura al cambio de alcance siempre que agregue valor y se gestione adecuadamente dentro del backlog. Un equipo que rechaza o cuestiona por defecto cada cambio pierde adaptabilidad, uno de los pilares de la agilidad.",
+    "domain": "Personas"
+  },
+  {
+    "content": "Participas en fases tempranas de un proyecto de construcción de un edificio residencial. El diseño aprobado por la autoridad no debe cambiarse y el cliente quiere entregar a tiempo y dentro de presupuesto, sin experimentar con el alcance. ¿Qué enfoque de ciclo de vida es más apropiado?",
+    "options": {
+      "A": "Ágil",
+      "B": "Predictivo",
+      "C": "Incremental",
+      "D": "Iterativo"
+    },
+    "correct_option": "B",
+    "explanation": "El alcance y el diseño están definidos y congelados; el objetivo es cumplir costo y plazo. En este contexto, un ciclo de vida predictivo, con planificación detallada upfront y cambios controlados, ofrece la mejor alineación con las expectativas del cliente.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Antonio dirige un proyecto de I+D con integrantes de distintas etnias y quiere formar un equipo cohesionado. Como actividad inicial de desarrollo de equipo, ¿qué acción es la más adecuada?",
+    "options": {
+      "A": "Capacitación en gestión de riesgos",
+      "B": "Capacitación en integración cultural",
+      "C": "Capacitación en gestión de calidad",
+      "D": "Análisis de interesados sin incluir al equipo"
+    },
+    "correct_option": "B",
+    "explanation": "En un equipo multicultural, trabajar primero la integración cultural ayuda a reducir sesgos, mejorar la comunicación y crear confianza. Esto sienta las bases para la colaboración y el desempeño posterior del equipo.",
+    "domain": "Personas"
+  },
+  {
+    "content": "Un proyecto de construcción está por cerrarse, pero un proveedor reclama que aún no se le ha pagado una factura. Finanzas indica que la factura tiene un error en el cálculo de impuestos. Tu patrocinador te presiona para que cierres y tomes un nuevo proyecto. ¿Qué deberías hacer como director de proyecto?",
+    "options": {
+      "A": "Decir al proveedor que lo resuelva con finanzas y tú pasas al nuevo proyecto",
+      "B": "Cerrar el proyecto porque la factura ya fue aprobada; el error es problema del proveedor",
+      "C": "Buscar apoyo en finanzas para que ayuden al proveedor a emitir una factura corregida y retrasar el cierre hasta resolverlo",
+      "D": "Pedir al patrocinador permiso explícito para cerrar y pasar al nuevo proyecto"
+    },
+    "correct_option": "C",
+    "explanation": "Cerrar el proyecto dejando sin resolver obligaciones contractuales es irresponsable y afecta la relación con el proveedor. Como líder servicial, el director de proyecto debe facilitar que finanzas y proveedor corrijan el problema y asegurar que el pago se procese antes del cierre.",
+    "domain": "Personas"
+  },
+  {
+    "content": "Consideras las fases de un ciclo de vida predictivo: viabilidad, diseño, construcción, prueba, despliegue y cierre. ¿En qué fase normalmente se ponen en uso los entregables del proyecto y se completan las actividades de transición para asegurar sostenimiento, gestión del cambio y captura de beneficios?",
+    "options": {
+      "A": "Viabilidad",
+      "B": "Diseño",
+      "C": "Construcción",
+      "D": "Prueba",
+      "E": "Despliegue",
+      "F": "Cierre"
+    },
+    "correct_option": "E",
+    "explanation": "En la fase de despliegue se introducen los entregables en la operación, se realizan actividades de transición, formación, cambios organizacionales y se habilita la captura de beneficios. El cierre se centra en formalizar aceptación, lecciones aprendidas y archivo.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Sara lidera un proyecto para desarrollar un modelo matemático que prediga lluvias con un 95 % de precisión. El cliente no tiene prisa por la entrega, pero sí exige que el algoritmo alcance ese nivel de exactitud, a través de pruebas y refinamientos sucesivos. ¿Qué enfoque de ciclo de vida es más apropiado?",
+    "options": {
+      "A": "Predictivo",
+      "B": "Híbrido",
+      "C": "Incremental",
+      "D": "Iterativo"
+    },
+    "correct_option": "D",
+    "explanation": "El objetivo clave es mejorar progresivamente la precisión mediante experimentos y aprendizaje. Un enfoque iterativo permite construir versiones del modelo, probarlas, analizar resultados y ajustar el diseño en ciclos, priorizando el conocimiento y la calidad del algoritmo por sobre la entrega temprana.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Estás ejecutando un proyecto de gobernanza de TI. Un proveedor subcontratado pide renegociar los términos contractuales, por lo que tú y el área de compras quieren revisar formalmente las nuevas condiciones con el proveedor. ¿Qué canal de comunicación es más apropiado para este tipo de negociación?",
+    "options": {
+      "A": "Comunicación verbal formal",
+      "B": "Comunicación escrita informal (correo sin formato oficial)",
+      "C": "Comunicación escrita formal",
+      "D": "Comunicación verbal informal"
+    },
+    "correct_option": "C",
+    "explanation": "Los cambios contractuales deben documentarse formalmente: acuerdos escritos, firmados y trazables. La comunicación escrita formal reduce ambigüedades, sirve como registro y protege a las partes en caso de disputas posteriores.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Durante la ejecución revisas semanalmente el avance. Una actividad de la ruta crítica se completó en 4 semanas, pero aún no has consultado la línea base del cronograma, de modo que no sabes si está adelantada, en fecha o retrasada. ¿Cómo se denomina esta información que tienes en este momento?",
+    "options": {
+      "A": "Información sobre el desempeño del trabajo",
+      "B": "Datos sobre el desempeño del trabajo",
+      "C": "Comparación de líneas base del cronograma",
+      "D": "Informe de desempeño del trabajo"
+    },
+    "correct_option": "B",
+    "explanation": "Sin comparar con la línea base ni con umbrales, solo dispones de datos en bruto (duración real de la actividad). Para convertirlos en información o en un informe de desempeño necesitas analizarlos y compararlos contra el plan.",
+    "domain": "Procesos"
+  }
+]

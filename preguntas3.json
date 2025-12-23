@@ -1,0 +1,482 @@
+[
+  {
+    "content": "Estás liderando un proyecto de modernización de sucursales bancarias en varios países. Ya definiste la EDT/WBS y estimaste los recursos necesarios por paquete de trabajo. Ahora quieres un artefacto que muestre, en una sola vista, qué rol o persona es responsable de cada paquete de trabajo. ¿Qué herramienta deberías usar?",
+    "options": {
+      "A": "Estructura de desglose de recursos (RBS)",
+      "B": "Matriz de asignación de responsabilidades (RAM/RACI)",
+      "C": "Estructura de desglose de la organización (OBS)",
+      "D": "Registro de interesados"
+    },
+    "correct_option": "B",
+    "explanation": "La matriz de asignación de responsabilidades (RAM/RACI) cruza paquetes de trabajo con roles/personas y muestra quién es responsable, quién aprueba, quién apoya y quién es informado. La RBS y la OBS clasifican recursos y estructura organizacional, pero no muestran responsabilidades por paquete de trabajo.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Diriges un programa de transformación digital y necesitas evaluar si las estrategias para relacionarte con los stakeholders clave están funcionando. Para ello, comparas el nivel actual de compromiso de los interesados con el nivel objetivo definido en la planificación. ¿Qué herramienta o documento utilizas principalmente para este análisis?",
+    "options": {
+      "A": "Registro de riesgos",
+      "B": "Plan de gestión de comunicaciones",
+      "C": "Matriz de evaluación del compromiso de los interesados",
+      "D": "Estructura de desglose del trabajo (EDT/WBS)"
+    },
+    "correct_option": "C",
+    "explanation": "La matriz de evaluación del compromiso de los interesados muestra el estado actual (por ejemplo, resistente, neutro, de apoyo) versus el estado deseado. Es la herramienta central para medir si las estrategias de gestión de interesados están logrando el cambio en el nivel de compromiso.",
+    "domain": "Personas"
+  },
+  {
+    "content": "Un gran banco está implementando un nuevo core bancario. El proyecto tiene una Junta de Control de Cambios (CCB). Uno de los gerentes de negocio quiere que apruebes directamente un cambio mayor sin pasar por la CCB, para ganar tiempo. ¿Cuál debería ser tu respuesta como director del proyecto?",
+    "options": {
+      "A": "Aceptar el cambio y documentarlo después para no retrasar el proyecto",
+      "B": "Solicitar que el cambio pase por el proceso formal de control de cambios y la CCB",
+      "C": "Rechazar de inmediato el cambio por exceder el alcance inicial",
+      "D": "Aprobar provisionalmente el cambio y pedir a la CCB solo una revisión posterior"
+    },
+    "correct_option": "B",
+    "explanation": "La CCB es el órgano definido para revisar, aprobar o rechazar cambios que impactan alcance, cronograma o costo. Saltarse el proceso debilita la gobernanza del proyecto y el control integrado de cambios, aunque la intención sea ganar tiempo.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "En un proyecto de construcción de una planta industrial, dos ingenieros senior discuten fuertemente sobre el diseño de la cimentación, y el conflicto empieza a afectar al resto del equipo. Como director del proyecto, decides abordar el conflicto buscando una solución que satisfaga parcialmente a ambos y mantenga la relación de trabajo. ¿Qué técnica de resolución de conflictos describes?",
+    "options": {
+      "A": "Imposición/forzar",
+      "B": "Retirada/evitar",
+      "C": "Colaborar/solución de problemas",
+      "D": "Comprometer/conceder"
+    },
+    "correct_option": "D",
+    "explanation": "Comprometer implica buscar una solución intermedia en la que cada parte cede algo para llegar a un acuerdo aceptable. Colaborar busca una solución ganar-ganar óptima; imponer, evitar el conflicto o forzar una decisión son enfoques distintos.",
+    "domain": "Personas"
+  },
+  {
+    "content": "Estás ayudando a una empresa de software a adoptar ágil. Como coach, quieres modelar liderazgo servicial. En una reunión de planificación, el equipo bloquea por falta de acceso a un entorno de pruebas. ¿Cuál de las siguientes acciones refleja mejor el liderazgo servicial?",
+    "options": {
+      "A": "Indicar al equipo que resuelva el problema por sí mismo porque son autoorganizados",
+      "B": "Escalar el impedimento, gestionar el acceso al entorno y proteger al equipo de presiones externas",
+      "C": "Asignar tú mismo tareas técnicas para mostrar cómo se hace el trabajo",
+      "D": "Reprogramar la iteración sin abordar el impedimento para no generar conflicto"
+    },
+    "correct_option": "B",
+    "explanation": "El liderazgo servicial se centra en eliminar impedimentos, apoyar al equipo y protegerlo de interferencias externas para que pueda rendir al máximo. No significa abandonar al equipo, ni microgestionar el trabajo técnico, ni evitar los conflictos importantes.",
+    "domain": "Personas"
+  },
+  {
+    "content": "Estás desarrollando el registro de riesgos para un proyecto de expansión logística en Latinoamérica. Quieres asegurarte de que cada entrada tenga información mínima para su gestión. ¿Cuál de los siguientes conjuntos representa mejor los campos esenciales de un riesgo en el registro?",
+    "options": {
+      "A": "Identificador, descripción, probabilidad, impacto, respuesta planificada, propietario del riesgo",
+      "B": "Descripción, costo, plazo, equipo, patrocinador, canal de comunicación",
+      "C": "Identificador, WBS, EDT, responsable de la actividad, presupuesto",
+      "D": "Descripción, acta de constitución, contrato, base de datos de proveedores"
+    },
+    "correct_option": "A",
+    "explanation": "El registro de riesgos debe incluir al menos identificación, descripción, probabilidad, impacto, propietario y la respuesta planificada. Los otros conjuntos mezclan campos de otros documentos (WBS, contratos, comunicación) que no son específicos de la gestión de riesgos.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En un proyecto de implementación de un ERP, asignas un ‘propietario del riesgo’ para cada riesgo crítico. En una reunión, un analista confunde el rol con el de ‘propietario de la acción’. ¿Cómo aclararías la diferencia?",
+    "options": {
+      "A": "El propietario del riesgo solo financia la respuesta; el propietario de la acción la ejecuta",
+      "B": "El propietario del riesgo decide y supervisa la respuesta; el propietario de la acción ejecuta tareas específicas",
+      "C": "Ambos roles son idénticos; solo cambia el nombre según el área",
+      "D": "El propietario de la acción es siempre el patrocinador; el propietario del riesgo, el PM"
+    },
+    "correct_option": "B",
+    "explanation": "El propietario del riesgo es responsable de monitorear el riesgo y asegurar que se implementen las respuestas. El propietario de la acción ejecuta medidas concretas definidas en el plan de respuesta. Pueden coincidir en la misma persona, pero son conceptos diferentes.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Tu organización licita la construcción de un centro de distribución y quieres preparar la documentación de adquisiciones. Necesitas describir con detalle qué se debe entregar, estándares de calidad y criterios de aceptación para que los proveedores coticen correctamente. ¿Qué documento debes elaborar o completar?",
+    "options": {
+      "A": "Acta de constitución del proyecto",
+      "B": "Declaración del alcance",
+      "C": "Enunciado del trabajo de la adquisición (SOW)",
+      "D": "Plan de gestión de las adquisiciones"
+    },
+    "correct_option": "C",
+    "explanation": "El enunciado del trabajo de la adquisición (SOW) describe el producto o servicio a contratar con suficiente detalle para que los proveedores preparen sus propuestas. La declaración del alcance es más interna; el plan de gestión de adquisiciones define el enfoque global, no el contenido específico del contrato.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Una empresa manufacturera analiza si tercerizar el mantenimiento de su maquinaria crítica o mantenerlo con personal interno. Estima costos, riesgos, impacto en la estrategia y capacidades futuras. ¿Qué análisis formal describe mejor esta decisión?",
+    "options": {
+      "A": "Análisis de valor ganado",
+      "B": "Análisis de ruta crítica",
+      "C": "Análisis de reserva de gestión",
+      "D": "Análisis de hacer o comprar (make or buy)"
+    },
+    "correct_option": "D",
+    "explanation": "El análisis de hacer o comprar compara beneficios, costos y riesgos de realizar el trabajo internamente versus contratar a un proveedor externo. EV, ruta crítica o reservas de gestión no son técnicas para evaluar tercerización versus internalización.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "Estás gestionando un proyecto con 10 miembros de equipo, incluyendo al director del proyecto. Te piden estimar el número potencial de canales de comunicación si todos pueden comunicarse entre sí. ¿Qué fórmula utilizas?",
+    "options": {
+      "A": "n(n − 1) / 2",
+      "B": "n² − n",
+      "C": "2n − 1",
+      "D": "n(n + 1) / 2"
+    },
+    "correct_option": "A",
+    "explanation": "La fórmula para canales de comunicación potenciales en un equipo donde todos se pueden comunicar con todos es n(n − 1)/2, donde n es el número de miembros. Con 10 personas habría 45 canales potenciales.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En un proyecto Scrum para desarrollar una app de banca móvil, algunos gerentes funcionales quieren asistir a las reuniones diarias para “controlar” al equipo. Como Scrum Master, recuerdas el propósito de la daily. ¿Cuál descripción es la más adecuada?",
+    "options": {
+      "A": "Es una reunión formal de reporte de estado al patrocinador",
+      "B": "Es una reunión de coordinación interna del equipo para inspeccionar el progreso y adaptar el plan diario",
+      "C": "Es una revisión formal del sprint donde se aceptan o rechazan entregables",
+      "D": "Es la instancia para negociar cambios de alcance con el Product Owner"
+    },
+    "correct_option": "B",
+    "explanation": "La daily scrum es una reunión breve del equipo para inspeccionar el progreso hacia el objetivo del sprint y ajustar el plan de trabajo diario. No es una reunión de reporte a la gerencia ni una revisión de alcance o aceptación de entregables.",
+    "domain": "Personas"
+  },
+  {
+    "content": "En un proyecto ágil para una plataforma de e-commerce, el Product Owner (PO) está sobrecargado con otros proyectos y casi nunca asiste a las refinaciones de backlog. El equipo pierde claridad sobre prioridades. ¿Cuál es la responsabilidad más crítica del PO que se está incumpliendo?",
+    "options": {
+      "A": "Definir la arquitectura técnica del sistema",
+      "B": "Maximizar el valor del producto gestionando y priorizando el backlog",
+      "C": "Facilitar la daily scrum",
+      "D": "Aprobar el presupuesto del proyecto"
+    },
+    "correct_option": "B",
+    "explanation": "El Product Owner es responsable de maximizar el valor del producto a través de la gestión y priorización del backlog. La arquitectura técnica suele recaer en el equipo o arquitecto; la daily la facilita el Scrum Master; el presupuesto lo define la organización, no el PO solo.",
+    "domain": "Personas"
+  },
+  {
+    "content": "En un equipo ágil, usas un gráfico de trabajo pendiente (burndown chart) para la iteración actual. La línea real está consistentemente por encima de la línea ideal. ¿Qué indica esto principalmente?",
+    "options": {
+      "A": "El equipo va adelantado respecto al plan",
+      "B": "El equipo está eliminando trabajo más rápido de lo esperado",
+      "C": "El equipo está completando menos trabajo del planificado y puede no cumplir el objetivo del sprint",
+      "D": "La línea ideal solo es decorativa; no se usa para análisis"
+    },
+    "correct_option": "C",
+    "explanation": "En un burndown chart, una línea real por encima de la línea ideal indica que queda más trabajo del esperado en ese punto del tiempo. Es señal de que el equipo está por detrás del plan del sprint y podría no alcanzar el objetivo sin ajustes.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En un proyecto ágil híbrido, te piden explicar la diferencia entre la revisión de iteración (sprint review) y la retrospectiva. ¿Cuál de las siguientes afirmaciones es CORRECTA?",
+    "options": {
+      "A": "La revisión se centra en el producto; la retrospectiva, en el proceso y el equipo",
+      "B": "La revisión es interna del equipo; la retrospectiva incluye siempre al patrocinador",
+      "C": "Ambas reuniones tienen exactamente el mismo propósito, solo cambian los asistentes",
+      "D": "La retrospectiva es opcional; la revisión es exclusiva de proyectos predictivos"
+    },
+    "correct_option": "A",
+    "explanation": "En Scrum, la sprint review se enfoca en el incremento del producto y la retroalimentación de los interesados; la retrospectiva examina proceso, herramientas y dinámicas del equipo para mejorar continuamente. Propósito y foco son distintos.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En un producto SaaS, el equipo quiere formalizar cuándo una historia de usuario se considera terminada. Actualmente hay confusión y se están entregando funcionalidades sin pruebas completas. ¿Qué artefacto debería definirse y comunicarse a todo el equipo?",
+    "options": {
+      "A": "Definición de Listo (Definition of Ready)",
+      "B": "Definición de Hecho (Definition of Done)",
+      "C": "Términos de referencia del proyecto",
+      "D": "Caso de negocio del producto"
+    },
+    "correct_option": "B",
+    "explanation": "La Definición de Hecho (DoD) aclara los criterios que deben cumplirse para que un elemento se considere completado. Sin DoD, hay interpretaciones diferentes sobre lo que significa “listo”, lo que genera deuda técnica y falta de calidad.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "La alta dirección quiere combinar la estabilidad de la planificación predictiva con la flexibilidad de la entrega ágil en un proyecto de implantación de CRM corporativo. El alcance macro es estable, pero se quiere ajustar funcionalidades por iteraciones. ¿Qué enfoque de ciclo de vida describe mejor esta situación?",
+    "options": {
+      "A": "Predictivo puro",
+      "B": "Ágil puro",
+      "C": "Híbrido",
+      "D": "Extremo (exploratorio, sin planificación)"
+    },
+    "correct_option": "C",
+    "explanation": "Un ciclo de vida híbrido combina elementos predictivos (por ejemplo, fases, hitos, infraestructura) con componentes ágiles para la evolución del producto. Es apropiado cuando parte del trabajo es estable y otra parte requiere exploración y adaptación.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "En un proyecto global de data analytics, muchos conocimientos valiosos quedan en conversaciones informales y no se documentan. Quieres aplicar el proceso de gestionar el conocimiento del proyecto. ¿Cuál acción concreta se alinea mejor con este proceso?",
+    "options": {
+      "A": "Aumentar el presupuesto del proyecto para contratar más consultores",
+      "B": "Organizar sesiones periódicas de lecciones aprendidas y documentarlas en una base de conocimiento",
+      "C": "Establecer más revisiones formales de cronograma",
+      "D": "Reducir reuniones para concentrarse solo en ejecución técnica"
+    },
+    "correct_option": "B",
+    "explanation": "Gestionar el conocimiento del proyecto implica capturar, compartir y reutilizar el conocimiento explícito y tácito. Las sesiones de lecciones aprendidas documentadas en una base de conocimiento institucionalizan ese aprendizaje para este y futuros proyectos.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Un PM junior cree que las lecciones aprendidas se documentan solo al final del proyecto, durante el cierre. Como PM experimentado, ¿cómo aclararías la práctica recomendada?",
+    "options": {
+      "A": "Se documentan solo si el patrocinador lo exige",
+      "B": "Se recopilan y actualizan a lo largo de todo el ciclo de vida del proyecto",
+      "C": "Se documentan únicamente después de grandes fallos",
+      "D": "Son responsabilidad exclusiva de la PMO, no del equipo"
+    },
+    "correct_option": "B",
+    "explanation": "Las lecciones aprendidas deben capturarse de manera continua, desde la iniciación hasta el cierre, y actualizar el registro de lecciones aprendidas. Esperar al final provoca la pérdida de información y reduce su utilidad para iteraciones o fases posteriores.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Durante la ejecución de un proyecto de infraestructura, detectas que un proveedor no cumple los plazos de entrega acordados. Este problema ya está ocurriendo y afecta al cronograma. ¿En qué documento deberías registrar principalmente este hecho para gestionarlo?",
+    "options": {
+      "A": "Registro de riesgos",
+      "B": "Registro de incidentes (issue log)",
+      "C": "Plan de gestión de las adquisiciones",
+      "D": "Acta de constitución del proyecto"
+    },
+    "correct_option": "B",
+    "explanation": "Los riesgos son eventos inciertos; los problemas que ya han ocurrido se registran en el registro de incidentes (issue log) para su seguimiento y resolución. El plan de adquisiciones y el acta son documentos de planificación e iniciación, no de registro de problemas.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En una auditoría interna de calidad, te preguntan la diferencia entre gestionar la calidad y controlar la calidad en un proyecto de desarrollo de producto. ¿Cuál de las siguientes descripciones es correcta?",
+    "options": {
+      "A": "Gestionar la calidad se centra en inspeccionar productos terminados",
+      "B": "Controlar la calidad define políticas y estándares organizacionales",
+      "C": "Gestionar la calidad es proactivo y orientado a procesos; controlar la calidad es reactivo y orientado a entregables",
+      "D": "Ambos términos son sinónimos en el PMBOK"
+    },
+    "correct_option": "C",
+    "explanation": "Gestionar la calidad incluye diseñar procesos, políticas y mejoras continuas para prevenir defectos. Controlar la calidad verifica que los entregables cumplen los estándares mediante inspección y pruebas. Son procesos complementarios, no sinónimos.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En un proyecto de construcción hospitalaria, ya definiste cómo gestionar recursos y estimaste la cantidad de materiales y personal por actividad. Ahora debes asegurar la disponibilidad real de los recursos físicos y humanos. ¿Qué proceso estás a punto de ejecutar?",
+    "options": {
+      "A": "Planificar la gestión de los recursos",
+      "B": "Estimar los recursos de las actividades",
+      "C": "Adquirir recursos",
+      "D": "Controlar los recursos"
+    },
+    "correct_option": "C",
+    "explanation": "Después de planificar y estimar recursos, el siguiente paso es adquirir recursos, es decir, obtener físicamente las personas, equipos, materiales e instalaciones necesarios para ejecutar el trabajo previsto.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Durante la ejecución de un proyecto de outsourcing de TI, notas que el sponsor y un grupo de usuarios clave han dejado de asistir a las reuniones de seguimiento. La participación cae y hay señales de resistencia. ¿Qué proceso debes reforzar principalmente?",
+    "options": {
+      "A": "Identificar a los interesados",
+      "B": "Gestionar el compromiso de los interesados",
+      "C": "Planificar la gestión de los interesados",
+      "D": "Cerrar el proyecto o fase"
+    },
+    "correct_option": "B",
+    "explanation": "Gestionar el compromiso de los interesados busca mantener y aumentar la participación activa de los stakeholders mediante comunicación, negociación y acciones específicas. Planificar define el enfoque; identificar reconoce interesados, pero el problema aquí es de compromiso en la ejecución.",
+    "domain": "Personas"
+  },
+  {
+    "content": "Estás revisando el caso de negocio de un proyecto de automatización de bodegas después de dos años de operación. Algunos supuestos de ahorro no se cumplieron, pero surgieron beneficios no previstos. ¿Cuál documento deberías actualizar para reflejar el desempeño real y la validez de la justificación inicial?",
+    "options": {
+      "A": "Acta de constitución del proyecto",
+      "B": "Caso de negocio (business case)",
+      "C": "Plan para la dirección del proyecto",
+      "D": "Plan de gestión del alcance"
+    },
+    "correct_option": "B",
+    "explanation": "El caso de negocio debería actualizarse durante el ciclo de vida para evaluar si la iniciativa sigue siendo viable y cómo se materializaron los beneficios. El acta de constitución y el plan de dirección describen el proyecto, pero no sustituyen la evaluación de la justificación económica.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "La oficina de proyectos (PMO) te pide un documento que muestre cómo y cuándo se obtendrán, medirán y mantendrán los beneficios de un proyecto de mejora de procesos de atención al cliente. No se trata solo de ROI financiero, sino también de satisfacción, tiempos de respuesta, etc. ¿Qué documento describes?",
+    "options": {
+      "A": "Plan de gestión de beneficios",
+      "B": "Plan de gestión de riesgos",
+      "C": "Plan de gestión de cambios",
+      "D": "Matriz RACI"
+    },
+    "correct_option": "A",
+    "explanation": "El plan de gestión de beneficios define qué beneficios se esperan, cómo se medirán, quién es responsable de generarlos y en qué plazos. Es un puente entre el caso de negocio y la realidad operativa posterior al proyecto.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "En una reunión ejecutiva, te piden explicar la diferencia entre proyectos y operaciones. ¿Cuál de las siguientes afirmaciones es más precisa?",
+    "options": {
+      "A": "Los proyectos son temporales; las operaciones son continuas",
+      "B": "Los proyectos siempre generan pérdidas; las operaciones, ganancias",
+      "C": "Las operaciones nunca cambian; los proyectos nunca involucran riesgo",
+      "D": "Proyectos y operaciones son equivalentes, solo cambia el nombre"
+    },
+    "correct_option": "A",
+    "explanation": "Los proyectos son esfuerzos temporales con principio y fin definidos, orientados a crear un producto, servicio o resultado único. Las operaciones son actividades continuas y repetitivas que sostienen el negocio día a día.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "Tu empresa adopta la 7ª edición del PMBOK e insiste en que cada proyecto sea ‘tailored’ (ajustado). Un director pregunta qué significa esto en la práctica. ¿Cuál es la mejor explicación?",
+    "options": {
+      "A": "Usar todos los procesos del PMBOK sin excepción",
+      "B": "Seleccionar y adaptar prácticas, herramientas y artefactos a las características del proyecto y la organización",
+      "C": "Aplicar únicamente prácticas ágiles, sin procesos predictivos",
+      "D": "Eliminar toda documentación para ganar velocidad"
+    },
+    "correct_option": "B",
+    "explanation": "Tailoring significa ajustar el enfoque, procesos, herramientas y entregables a las necesidades específicas del proyecto y el contexto organizacional. No implica usar todo ni eliminarlo todo; se trata de un uso inteligente y contextualizado.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "En un equipo Kanban que gestiona incidencias de soporte, te piden explicar la diferencia entre lead time y cycle time. ¿Cuál opción describe esta diferencia correctamente?",
+    "options": {
+      "A": "Lead time es el tiempo de desarrollo y cycle time el tiempo de pruebas",
+      "B": "Lead time es desde que se solicita el trabajo hasta que se entrega; cycle time es desde que el equipo empieza a trabajarlo hasta que lo termina",
+      "C": "Lead time siempre es menor que cycle time",
+      "D": "Son sinónimos en Kanban"
+    },
+    "correct_option": "B",
+    "explanation": "El lead time incluye el tiempo de espera antes de que el equipo empiece el trabajo; el cycle time mide solo el tiempo en que el ítem está en proceso. Ambos son métricas clave en sistemas de flujo como Kanban.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En un proyecto de fabricación, la gerencia discute sobre invertir más en prevención (capacitación, mantenimiento) o aceptar más fallos internos y externos. Quieren entender el concepto de costo de calidad (CoQ). ¿Cuál combinación describe mejor sus componentes?",
+    "options": {
+      "A": "Costos de prevención y de fallos externos únicamente",
+      "B": "Costos de prevención, evaluación (inspección) y fallos internos y externos",
+      "C": "Costos de recursos humanos y de materiales únicamente",
+      "D": "Solo costos de garantía y devoluciones"
+    },
+    "correct_option": "B",
+    "explanation": "El costo de calidad incluye costes de prevención (evitar defectos), de evaluación (inspección, pruebas) y de fallos, tanto internos (antes de la entrega) como externos (después de la entrega). Analizarlos permite optimizar dónde invertir para reducir el costo total.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Tu cronograma muestra que el proyecto está retrasado y la fecha de lanzamiento de un nuevo producto ya está comprometida con el mercado. Te piden acortar la duración sin cambiar el alcance. Analizas aumentar recursos en actividades críticas pagando horas extra o nuevos equipos. ¿Qué técnica describes?",
+    "options": {
+      "A": "Fast tracking (ejecución rápida)",
+      "B": "Crashing (intensificación)",
+      "C": "Nivelación de recursos",
+      "D": "Compresión de costos"
+    },
+    "correct_option": "B",
+    "explanation": "Crashing es una técnica de compresión del cronograma que añade recursos a actividades de la ruta crítica para acortar la duración al menor costo incremental posible. Fast tracking se refiere a solapar actividades que antes se ejecutaban en secuencia.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En un proyecto, el valor planificado (PV) a la fecha es 100.000, el valor ganado (EV) es 80.000 y el costo real (AC) es 70.000. ¿Cuál es la interpretación correcta?",
+    "options": {
+      "A": "El proyecto está retrasado y por debajo del presupuesto",
+      "B": "El proyecto está adelantado y por debajo del presupuesto",
+      "C": "El proyecto está retrasado y por encima del presupuesto",
+      "D": "El proyecto está adelantado y por encima del presupuesto"
+    },
+    "correct_option": "A",
+    "explanation": "EV < PV indica retraso (se ha completado menos trabajo del planificado). EV > AC indica buen desempeño de costos (se ha obtenido más valor del que se ha gastado). Por tanto, el proyecto está retrasado pero por debajo del presupuesto.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En una revisión de desempeño, calculas el CPI (EV/AC) de tu proyecto y obtienes 0,8, mientras que el SPI (EV/PV) es 1,05. ¿Qué significa esto a alto nivel?",
+    "options": {
+      "A": "Vas dentro del presupuesto y adelantado en cronograma",
+      "B": "Vas sobre el presupuesto pero adelantado en cronograma",
+      "C": "Vas sobre el presupuesto y retrasado",
+      "D": "Vas dentro del presupuesto y retrasado"
+    },
+    "correct_option": "B",
+    "explanation": "Un CPI < 1 indica que se está gastando más de lo planificado por unidad de valor logrado (sobrepresupuesto). Un SPI > 1 indica que se ha avanzado más trabajo del planificado en el tiempo (adelantado en cronograma).",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En un proyecto de implementación de red 5G, la gerencia quiere saber qué índice de desempeño en costos se necesitaría a partir de ahora para terminar exactamente con el presupuesto aprobado, dado el desempeño hasta la fecha. ¿Qué indicador utilizas?",
+    "options": {
+      "A": "CPI (Índice de desempeño de costos)",
+      "B": "SPI (Índice de desempeño de cronograma)",
+      "C": "TCPI (Índice de desempeño del trabajo por completar)",
+      "D": "VAC (Variación a la conclusión)"
+    },
+    "correct_option": "C",
+    "explanation": "El TCPI indica cuál debe ser el desempeño en costos en el trabajo restante para lograr un objetivo de costo dado (por ejemplo, el BAC). Es una métrica prospectiva que responde a la pregunta “qué tan eficiente debemos ser de ahora en adelante”.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Estás explicando técnicas cuantitativas de análisis de riesgos a un sponsor. Quiere una simulación que muestre, a partir de distribuciones de probabilidad, la posible variación de la fecha de finalización del proyecto. ¿Qué técnica describes?",
+    "options": {
+      "A": "Análisis de sensibilidad (diagrama tornado)",
+      "B": "Simulación Monte Carlo",
+      "C": "Análisis de valor monetario esperado (EMV)",
+      "D": "Análisis cualitativo de riesgos"
+    },
+    "correct_option": "B",
+    "explanation": "La simulación Monte Carlo utiliza números aleatorios y distribuciones de probabilidad para modelar resultados posibles, por ejemplo, fechas de finalización. El análisis de sensibilidad, EMV y el análisis cualitativo tienen otros objetivos.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En el análisis cualitativo de riesgos de un proyecto de expansión hotelera, defines escalas de probabilidad e impacto en una matriz 5x5. ¿Cuál es el beneficio principal de este enfoque?",
+    "options": {
+      "A": "Convertir automáticamente todos los riesgos en indicadores financieros",
+      "B": "Permitir priorizar riesgos de forma consistente y compararlos entre sí",
+      "C": "Eliminar la necesidad de análisis cuantitativo",
+      "D": "Reducir la cantidad de riesgos identificados"
+    },
+    "correct_option": "B",
+    "explanation": "Las escalas de probabilidad e impacto permiten puntuar y priorizar riesgos de manera consistente. Esto facilita enfocar recursos en los riesgos más significativos. No reemplazan completamente el análisis cuantitativo ni generan automáticamente indicadores financieros.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "En un proyecto con riesgos muy altos, la dirección quiere entender la diferencia entre reservas de contingencia y reservas de gestión. ¿Cuál afirmación es correcta?",
+    "options": {
+      "A": "Ambas forman parte de la línea base de costos",
+      "B": "Las reservas de contingencia cubren riesgos identificados; las de gestión, incertidumbre general y cambios no planificados",
+      "C": "Las reservas de gestión se usan libremente por el equipo sin aprobación",
+      "D": "Solo las reservas de contingencia requieren pasar por control de cambios"
+    },
+    "correct_option": "B",
+    "explanation": "Las reservas de contingencia son parte de la línea base y cubren riesgos identificados; las de gestión se mantienen fuera de la línea base y se usan para incertidumbre global y cambios no previstos, normalmente mediante el proceso formal de control de cambios.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Durante la negociación de un contrato de servicios de TI gestionados, el proveedor pide flexibilizar penalidades por indisponibilidad. Tu área legal quiere asegurar protección adecuada y relaciones de largo plazo. ¿En qué proceso estás principalmente involucrado?",
+    "options": {
+      "A": "Planificar la gestión de las adquisiciones",
+      "B": "Efectuar las adquisiciones (negociación y adjudicación)",
+      "C": "Controlar las adquisiciones",
+      "D": "Cerrar el proyecto o fase"
+    },
+    "correct_option": "B",
+    "explanation": "La negociación de términos contractuales forma parte del proceso de efectuar las adquisiciones, en el cual se evalúan propuestas, se elige proveedor y se negocian las condiciones del contrato antes de la adjudicación.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Antes de iniciar un gran programa ágil de productos digitales, la organización crea un documento compartido que resume propósito, visión, objetivos de alto nivel, riesgos clave y principios de trabajo. Sirve para alinear a todos los equipos ágiles. ¿Qué práctica describe mejor este artefacto?",
+    "options": {
+      "A": "Acta de constitución ágil (Agile chartering)",
+      "B": "Backlog del producto",
+      "C": "Plan de liberación (release plan)",
+      "D": "Roadmap técnico"
+    },
+    "correct_option": "A",
+    "explanation": "El agile charter (acta de constitución ágil) establece visión, objetivos, límites y principios para el trabajo ágil, alineando a equipos y stakeholders. Backlog, release plan y roadmap técnico son artefactos más detallados y específicos.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "En un taller de requisitos para una app de reservas, enseñas al equipo a escribir historias de usuario. Una analista propone la siguiente estructura: “Como [tipo de usuario], quiero [función] para [beneficio]”. ¿Qué aspecto clave refleja correctamente esta plantilla?",
+    "options": {
+      "A": "Describe únicamente criterios técnicos de rendimiento",
+      "B": "Enfatiza quién obtiene valor, qué quiere y para qué lo quiere",
+      "C": "Evita cualquier referencia al usuario final",
+      "D": "Sustituye la necesidad de criterios de aceptación"
+    },
+    "correct_option": "B",
+    "explanation": "La plantilla clásica “Como…, quiero…, para…” ayuda a centrar la conversación en el usuario, la funcionalidad y el beneficio esperado, lo que facilita priorizar y diseñar soluciones alineadas con el valor para el cliente.",
+    "domain": "Procesos"
+  },
+  {
+    "content": "Una startup quiere lanzar rápidamente un producto de gestión de gastos corporativos. Decide lanzar una versión con funciones mínimas pero completas de extremo a extremo para validar el interés del mercado antes de invertir más. ¿Qué concepto describe mejor este enfoque?",
+    "options": {
+      "A": "Producto mínimo viable (MVP)",
+      "B": "Prototipo desechable",
+      "C": "Proyecto piloto interno",
+      "D": "Producto final sin iteraciones posteriores"
+    },
+    "correct_option": "A",
+    "explanation": "Un producto mínimo viable (MVP) es una versión del producto con suficiente valor para ser usable por clientes tempranos, quienes pueden entregar retroalimentación para el desarrollo futuro. No es solo un prototipo desechable ni necesariamente un proyecto piloto interno.",
+    "domain": "Entorno empresarial"
+  },
+  {
+    "content": "La dirección corporativa está revisando la función de la PMO. En un diagnóstico, descubres que la PMO define metodologías, provee plantillas y asesora, pero no controla directamente a los directores de proyecto ni asigna recursos. ¿Qué tipo de PMO describe mejor esta situación?",
+    "options": {
+      "A": "PMO de control (controlling)",
+      "B": "PMO directiva (directive)",
+      "C": "PMO de soporte (supportive)",
+      "D": "PMO funcional de operaciones"
+    },
+    "correct_option": "C",
+    "explanation": "Una PMO de soporte proporciona plantillas, buenas prácticas y asesoría, con bajo nivel de control y autoridad. Una PMO de control establece más cumplimiento obligatorio, y una directiva asigna directamente directores de proyectos y recursos.",
+    "domain": "Entorno empresarial"
+  }
+]
